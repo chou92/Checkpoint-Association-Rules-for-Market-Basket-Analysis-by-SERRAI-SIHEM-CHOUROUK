@@ -1,0 +1,1 @@
+# Checkpoint-Association-Rules-for-Market-Basket-Analysis-by-SERRAI-SIHEM-CHOUROUK
